@@ -644,19 +644,14 @@
     "top_level_sheets": [
       {
         "filename": "Aura-Board.kicad_sch",
-        "name": "Root",
-        "uuid": "b0788d5f-187f-4628-9bbe-4593e5d1e62c"
+        "name": "Aura-Board",
+        "uuid": "00000000-0000-0000-0000-000000000000"
       }
     ],
-    "used_designators": "ST1-5",
+    "used_designators": "",
     "variants": []
   },
-  "sheets": [
-    [
-      "b0788d5f-187f-4628-9bbe-4593e5d1e62c",
-      "Root"
-    ]
-  ],
+  "sheets": [],
   "text_variables": {},
   "tuning_profiles": {
     "meta": {

@@ -5324,7 +5324,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "02509059-d581-4913-a707-749e67580bc4")
+			(uuid "02509059-d581-4913-a707-749e67580bc5")
 		)
 		(instances
 			(project "Aura-Board"
@@ -6615,7 +6615,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "02509059-d581-4913-a707-749e67580bc4")
+			(uuid "02509059-d581-4913-a707-749e67580bc6")
 		)
 		(instances
 			(project "Aura-Board"
@@ -6772,7 +6772,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "02509059-d581-4913-a707-749e67580bc4")
+			(uuid "02509059-d581-4913-a707-749e67580bc7")
 		)
 		(instances
 			(project "Aura-Board"
